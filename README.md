@@ -5,17 +5,17 @@ This project demonstrates how to build a stateful multi-step agent workflow usin
 🚀 Project Overview
 This notebook builds an AI assistant that:
 
-Takes user queries
+1. Takes user queries
 
-Searches Google using Serper API
+2. Searches Google using Serper API
 
-Makes decisions using tools
+3. Makes decisions using tools
 
-Stores and references memory
+4. Stores and references memory
 
-Uses LangGraph to define custom flows and logic
+5. Uses LangGraph to define custom flows and logic
 
-It also includes a Gradio interface for interactive testing.
+6. It also includes a Gradio interface for interactive testing.
 
 📁 Project Structure
 W4_1_2_Langgraph_tools_memory.ipynb: Main implementation notebook
